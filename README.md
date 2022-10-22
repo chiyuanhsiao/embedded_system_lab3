@@ -1,4 +1,4 @@
-# embedded_system_lab3
+# ES Lab HW3 BLE Central Programming
 
 ### About
 
